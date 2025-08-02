@@ -22,4 +22,4 @@ Prueba final modulo 1 "FRONT-END" Viajes Chile
 ● Trabajando con Git y Github.  
 
 ## Github pages.  
-https://jokercg.github.io/Viajes-Chile/
+[Vista previa](https://jrodriguezcreativo.github.io/Viajes-Chile/)
